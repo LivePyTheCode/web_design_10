@@ -1,0 +1,18 @@
+.top-quote,
+.top-h1 {
+  text-align: center;
+}
+
+#image {
+  height: auto;
+  width: 500px;
+  max-width: 100%;
+  max-height: 600px;
+  display: block;
+  align-items: center;
+  justify-content: center;
+}
+
+li {
+  padding: 8px;
+}
